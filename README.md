@@ -1,2 +1,2 @@
-# PreCourse-Henry_
-Este es un repositorio de prueba del PreCourse de Henry
+Esto es una prueba de como crear un repositorio y clonarlo de git a mi computadora.
+
